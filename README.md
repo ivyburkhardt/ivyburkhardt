@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ivyburkhardt
+- 👋 Hi, I’m ivy
 - 👀 I’m interested in games
 - 🌱 I’m currently learning vscode
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @piechypie on instagram
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: eu falo alemão
 
 <!---
 ivyburkhardt/ivyburkhardt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
